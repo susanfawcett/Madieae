@@ -1,6 +1,6 @@
 # The Allopolyploid Origin of the Hawaiian Silverswords
 
-**Baldwin, Fawcett, Kostic, Wessa, Freyman, in prep.**
+**Baldwin, B.G., et al. 2026. American Journal of Botany e70284. https://doi.org/10.1002/ajb2.70284**
 
 This branch documents the computational pipeline for the nuclear phylogenomic analyses to evaluate the ancestral progenitors of the Hawaiian Silversword Alliance. Methods shared with other related publications (raw data preparation, HybPiper assembly, HybPhaser phasing, plastome analyses) are documented in https://github.com/susanfawcett/Madieae/.
 
