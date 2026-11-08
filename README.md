@@ -1,6 +1,6 @@
 # Madieae Nuclear Phylogenomics
 
-**Baldwin, Fawcett, Kostic, Wessa, Freyman, in prep.**
+**Baldwin, B.G., et al. 2026. American Journal of Botany e70284. https://doi.org/10.1002/ajb2.70284**
 
 Computational pipelines for phylogenomic analyses of Madieae (Asteraceae), based on targeted enrichment sequencing of 279 taxa using a custom MYbaits probe library (Arbor Biosciences) targeting 461 putatively single-copy nuclear loci, with additional plastome data from off-target reads and whole-genome sequencing. 
 
