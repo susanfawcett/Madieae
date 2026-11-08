@@ -1,4 +1,4 @@
-# Madieae Nuclear Phylogenomics
+# Madieae Phylogenomics
 
 **Baldwin, B.G., et al. 2026. American Journal of Botany e70284. https://doi.org/10.1002/ajb2.70284**
 
