@@ -1,0 +1,133 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=31;
+	taxlabels
+	Anisocarpus_madioides_BGB488-7
+	Anisocarpus_scabridus_BGB676-7
+	Argyroxiphium_grayanum_BGB661-14
+	Argyroxiphium_sandwicense_sandwicense_BGB657-14
+	Carlquistia_muirii_BGB615-8
+	Carlquistia_muirii_BGB618-8
+	Carlquistia_muirii_BGB683-8
+	Carlquistia_muirii_BGB726-8
+	Dubautia_arborea_BGB527b-13
+	Dubautia_herbstobatae_GDC1244-13
+	Dubautia_knudsenii_filiformis_KRW13268-14
+	Dubautia_laevigata_BGB777-14
+	Dubautia_latifolia_BGB675-14
+	Dubautia_paleata_GDC1375-14
+	Dubautia_plantaginea_plantaginea_HOH11004-14
+	Dubautia_scabra_scabra_BGB526-14
+	Harmonia_doris-nilesiae_BW518-9
+	Harmonia_guggolziorum_JG_BG1635-9
+	Harmonia_hallii_BGB599-9
+	Harmonia_nutans_BGB652-9
+	Harmonia_stebbinsii_BGB611-9
+	Holozonia_filipes_BGB513-14
+	Jensia_rammii_BGB494-8
+	Jensia_yosemitana_BGB603-8
+	Kyhosia_bolanderi_BGB509b-6
+	Madia_citriodora_BGB715-8
+	Madia_elegans_BGB695-8
+	Madia_radiata_BGB693-8
+	Madia_subspicata_BGB713-8
+	'Wilkesia_gymnoxiphium_WC76.022-14'
+	Wilkesia_hobdyi_GDC1150-14
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Holozonia_filipes_BGB513-14:0.695041,(Kyhosia_bolanderi_BGB509b-6:0.555356,(Anisocarpus_scabridus_BGB676-7:0.487904,(((Dubautia_knudsenii_filiformis_KRW13268-14:0.192951,Dubautia_plantaginea_plantaginea_HOH11004-14:0.192951)[&chr="[N6_14-0.99//7-0]"]:0.0673,(('Wilkesia_gymnoxiphium_WC76.022-14':0.141,Wilkesia_hobdyi_GDC1150-14:0.141)[&chr="[N8_14-0.99//15-0]"]:0.0877,((Argyroxiphium_grayanum_BGB661-14:0.0987,Argyroxiphium_sandwicense_sandwicense_BGB657-14:0.0987)[&chr="[N10_14-0.99//15-0]"]:0.0626,((Dubautia_laevigata_BGB777-14:0.1,Dubautia_paleata_GDC1375-14:0.1)[&chr="[N12_14-0.99//15-0]"]:0.0356,(Dubautia_latifolia_BGB675-14:0.0913,(Dubautia_scabra_scabra_BGB526-14:0.0717,(Dubautia_arborea_BGB527b-13:0.0565,Dubautia_herbstobatae_GDC1244-13:0.0565)[&chr="[N15_13-0.91//14-0.08]"]:0.0152)[&chr="[N14_14-0.96//13-0.03]"]:0.0196)[&chr="[N13_14-0.99//13-0]"]:0.0447)[&chr="[N11_14-0.99//13-0]"]:0.0253)[&chr="[N9_14-0.99//15-0]"]:0.0671)[&chr="[N7_14-0.99//7-0]"]:0.0318)[&chr="[N5_14-0.99//7-0]"]:0.196,(Anisocarpus_madioides_BGB488-7:0.222,(((Jensia_rammii_BGB494-8:0.0723,Jensia_yosemitana_BGB603-8:0.0723)[&chr="[N19_8-0.99//9-0]"]:0.0882,(Harmonia_nutans_BGB652-9:0.093,(Harmonia_doris-nilesiae_BW518-9:0.0513,(Harmonia_guggolziorum_JG_BG1635-9:0.0256,(Harmonia_hallii_BGB599-9:0.0175,Harmonia_stebbinsii_BGB611-9:0.0175)[&chr="[N23_9-0.99//10-0]"]:0.00806)[&chr="[N22_9-0.99//8-0]"]:0.0257)[&chr="[N21_9-0.99//8-0]"]:0.0417)[&chr="[N20_9-0.97//8-0.02]"]:0.0675)[&chr="[N18_8-0.97//9-0.02]"]:0.0465,((Carlquistia_muirii_BGB618-8:0.0906,(Carlquistia_muirii_BGB726-8:0.0807,(Carlquistia_muirii_BGB615-8:0.0586,Carlquistia_muirii_BGB683-8:0.0586)[&chr="[N27_8-0.99//9-0]"]:0.0221)[&chr="[N26_8-0.99//9-0]"]:0.00991)[&chr="[N25_8-0.99//7-0]"]:0.0913,(Madia_radiata_BGB693-8:0.158,(Madia_subspicata_BGB713-8:0.0938,(Madia_citriodora_BGB715-8:0.0593,Madia_elegans_BGB695-8:0.0593)[&chr="[N30_8-0.99//9-0]"]:0.0345)[&chr="[N29_8-0.99//9-0]"]:0.0637)[&chr="[N28_8-0.99//7-0]"]:0.0244)[&chr="[N24_8-0.99//7-0]"]:0.0251)[&chr="[N17_8-0.98//7-0.01]"]:0.0151)[&chr="[N16_8-0.61//7-0.38]"]:0.235)[&chr="[N4_7-0.99//8-0]"]:0.0312)[&chr="[N3_7-0.99//8-0]"]:0.0675)[&chr="[N2_7-0.99//6-0]"]:0.14)[&chr="[N1_7-0.99//6-0]"];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="chr";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

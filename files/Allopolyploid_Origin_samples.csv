@@ -1,0 +1,73 @@
+Genus,Species,Subspecies,Ploidy,Collector,Collector_number,Voucher,Herbarium,Location,State,Exon_loci,SC_loci,Exon_coverage,HybPhaser_loci,Allele_divergence,Locus_heterozygosity,HybPiper_ID,Tip_Label
+Achyrachaena,mollis,,2n,Bruce G. Baldwin,651,BGB651a,DAV,Solano Co.: Sacramento Valley,California,460,53,0.998,460,0.386,75.54,ACHMOL651a,Achyrachaena_mollis_BGB651a
+Adenothamnus,validus,,2n,Martha S. Witter,W86-99,MSWW8699,DAV,Municipio Ensenada: Punta Banda,Baja California (Mexico),461,160,1,461,1.132,88.89,ADEVAL_W235,Adenothamnus_validus_MSWW8699
+Amblyopappus,pusillus,,2n,Bruce G. Baldwin,s.n.,BGBsn1988,UC,Municipio Ensenada: Isla San Mart’n,Baja California (Mexico),461,144,0.98,461,0.905,28.67,AMBPUS_W39,Amblyopappus_pusillus_BGBsn1988
+Anisocarpus,madioides,,2n,Bruce G. Baldwin,488,BGB488,DAV,"Napa Co.: Outer North Coast Ranges, Mayacamas Mountains",California,461,79,0.996,461,0.273,32.26,ANIMAD488,Anisocarpus_madioides_BGB488
+Anisocarpus,scabridus,,2n,Bruce G. Baldwin,676,BGB676,DAV,"Lake Co.: High North Coast Ranges, Hull Mountain",California,459,151,0.996,459,0.864,96.03,ANISCA676_1,Anisocarpus_scabridus_BGB676
+Argyroxiphium,grayanum,,4n,Bruce G. Baldwin,661,BGB661,DAV,"Maui: West Maui Mountains, Pu'u Kukui",Hawai'i,461,123,1,461,5.018,100,ARGGRA661_WM_1,Argyroxiphium_grayanum_BGB661
+Argyroxiphium,sandwicense,sandwicense,4n,Bruce G. Baldwin,657,BGB657,DAV,Hawai'i Island: Mauna Kea,Hawai'i,461,98,1,461,5.022,100,ARGSANs657_1,Argyroxiphium_sandwicense_sandwicense_BGB657
+Arnica,dealbata,,2n,Bruce G. Baldwin,920,BGB920,JEPS,Tehama Co.: Cascade Ranges,California,460,232,0.993,459,1.761,100,ARNDEA920,Arnica_dealbata_BGB920
+Arnica,mollis,,2n,Bruce G. Baldwin,680,BGB680,DAV,"Alpine Co.: northern Sierra Nevada, Carson Range",California,461,215,0.996,461,1.805,100,ARNMOL680_1,Arnica_mollis_BGB680
+Baeriopsis,guadalupensis,,2n,Jon P. Rebman,6758,JPR6758,UC,"Municipio Ensenada: Isla Guadalupe, Islote Zapato (Outer Islet)",Baja California (Mexico),461,171,0.98,460,1.555,83.81,BAEGUA_W309,Baeriopsis_guadalupensis_JPR6758
+Blepharipappus,scaber,,2n,Bob Powell & Vic Claassen,3275,VC3275,DAV,Lassen Co.: Modoc Plateau,California,460,340,0.954,460,3.373,100,BLPSCA_W237_1,Blepharipappus_scaber_VC3275
+Blepharizonia,laxa,,2n,Bruce G. Baldwin,542a,BGB542a,DAV,San Joaquin Co.: Mt. Hamilton Range,California,461,308,1,460,2.204,100,BLELAX542a,Blepharizonia_laxa_BGB542a
+Blepharizonia,plumosa,,2n,Bruce G. Baldwin,1252,BGB1252,JEPS,Contra Costa Co.: nw edge San Joaquin Valley (s of Antioch),California,461,161,0.998,461,1.105,87.46,BLEPLU1252_n,Blepharizonia_plumosa_BGB1252
+Calycadenia,mollis,,2n,Robert L. Carr,2213,RLC2213,EWU,Madera Co.: central Sierra Nevada foothills,California,461,361,0.993,461,4.115,100,CALMOL_W297,Calycadenia_mollis_RLC2213
+Calycadenia,truncata,,2n,Bruce G. Baldwin,605,BGB605,DAV,Tehama Co.: Cascade Range foothills,California,461,347,0.996,458,3.663,100,CALTRU605,Calycadenia_truncata_BGB605
+Carlquistia,muirii,,2n,Bruce G. Baldwin,615,BGB615,DAV,"Fresno Co.: southern High Sierra Nevada, Kings River drainage",California,460,113,0.996,460,0.948,97.48,CARMUI615_King_1,Carlquistia_muirii_BGB615
+Carlquistia,muirii,,2n,Bruce G. Baldwin,618,BGB618,DAV,"Monterey Co.: Outer South Coast Ranges, Santa Lucia Range, Ventana Double Cone",California,460,124,0.998,460,0.804,99.64,CARMUI618_VnDC,Carlquistia_muirii_BGB618
+Carlquistia,muirii,,2n,Bruce G. Baldwin,683,BGB683,DAV,"Tulare Co., southern High Sierra Nevada, Kaweah drainage",California,460,86,0.996,460,0.478,70.5,CARMUI683_Kawe,Carlquistia_muirii_BGB683
+Carlquistia,muirii,,2n,Bruce G. Baldwin,726,BGB726,DAV,"Tulare Co.: southern High Sierra Nevada, Greenhorn Mountains, Baker Point",California,459,183,0.996,459,0.667,96.03,CARMUI726_Kern,Carlquistia_muirii_BGB726
+Centromadia,perennis,,2n,Donald W. Kyhos,s.n.,DWKsn,DAV,Municipio Ensenada: Colonet Mesa,Baja California (Mexico),460,186,0.998,460,1.3,91.37,CENPER_W233,Centromadia_perennis_DWKsn
+Centromadia,pungens,pungens,2n,Bruce G. Baldwin,534,BGB534,DAV,San Luis Obispo Co.: Outer South Coast Ranges,California,461,384,1,459,4.681,99.64,CENPUNp534,Centromadia_pungens_pungens_BGB534
+Constancea,nevinii,,2n,Steven A. Junak,Sca-833,SAJSca833,JEPS,Los Angeles Co.: Santa Catalina Island,California,460,186,0.993,460,0.682,36.69,CONNEV_W231,Constancea_nevinii_SAJSca833
+Deinandra,fasciculata,,2n,Bruce G. Baldwin,533,BGB533,DAV,"San Luis Obispo: Central Coast, Los Osos Valley",California,460,356,0.991,458,4.086,100,DEIFAS533,Deinandra_fasciculata_BGB533
+Deinandra,floribunda,,2n,Fred Sproul,s.n. (JEPS98939),FSsn1988,JEPS,"San Diego Co.: Peninsular Ranges, Bankhead Springs",California,460,226,0.993,459,2.297,99.28,DEIFLO_W262,Deinandra_floribunda_FSsn1988
+Dubautia,arborea,,4n,Bruce G. Baldwin,527b,BGB527b,DAV,"Hawai'i Island: Mauna Kea, Pu'u La'au",Hawai'i,461,102,1,460,5.211,100,DUBARB527b_2,Dubautia_arborea_BGB527b
+Dubautia,herbstobatae,,4n,Gerald D. Carr,1244,BW253,HAW,"O'ahu: Wai'anae Range, 'Ohikilolo Ridge",Hawai'i,461,99,1,460,5.308,99.64,DUBHER_W253_1,Dubautia_herbstobatae_GDC1244
+Dubautia,knudsenii,filiformis,4n,Kenneth R. Wood,13268,BW831,PTBG,Kaua'i: upper Wainiha watershed,Hawai'i,461,151,1,460,4.805,99.64,DUBKNUf_W831,Dubautia_knudsenii_filiformis_KRW13268
+Dubautia,laevigata,,4n,Bruce G. Baldwin,777,BGB777,DUKE,Kaua'i: Blue Hole,Hawai'i,461,101,1,461,5.22,99.64,DUBLAE777_1,Dubautia_laevigata_BGB777
+Dubautia,latifolia,,4n,Bruce G. Baldwin,675,BGB675,DAV,Kaua'i: NW watershed of Kauaikinana Stream (at Mohihi Road),Hawai'i,461,92,1,461,4.944,97.85,DUBLAT675_1,Dubautia_latifolia_BGB675
+Dubautia,paleata,,4n,Gerald D. Carr,1375,BW250,HAW,Kaua'i: Alaka'i Swamp,Hawai'i,461,154,1,461,5.116,100,DUBPAL_W250_1,Dubautia_paleata_GDC1375
+Dubautia,plantaginea,plantaginea,4n,Hank Oppenheimer,11004,HOH11004,UC,"Maui: East Maui, upper Hanomanu Stream",Hawai'i,461,131,1,461,4.692,100,DUBPLNp_W956_EM,Dubautia_plantaginea_plantaginea_HOH11004
+Dubautia,scabra,scabra,4n,Bruce G. Baldwin,526,BGB526,DAV,"Hawai'i Island: Humu'ula Saddle, Pu'u Huluhulu",Hawai'i,461,110,1,460,5.11,100,DUBSCAs526_HSad_1,Dubautia_scabra_scabra_BGB526
+Eatonella,nivea,,2n,Bruce G. Baldwin,868,BGB868,UC,"Humboldt. Co.: Great Basin, Duferrena Field Station",Nevada,461,121,0.987,461,0.436,72.4,EATNIV868,Eatonella_nivea_BGB868
+Eriophyllum,lanatum,obovatum,2n,E. Shapiro,s.n.,ESsn2008a,JEPS,San Bernardino Co.: San Bernardino Mountains,California,461,203,0.978,461,1.494,97.85,ERILNTo_W803,Eriophyllum_lanatum_obovatum_ESsn2008a
+Eriophyllum,lanosum,,2n,Bruce G. Baldwin,888,BGB888,JEPS,San Bernardino Co.,California,461,307,0.993,460,2.818,100,ERILNS_888_2,Eriophyllum_lanosum_BGB888
+Harmonia,doris-nilesiae,,2n,Barbara Williams,518,BW243,????,Trinity Co.,California,459,327,0.993,458,4.327,100,HARDOR_W243,Harmonia_doris-nilesiae_BW518
+Harmonia,guggolziorum,,2n,Jack & Betty Guggolz,1635,BW318,JEPS,Mendocino Co.,California,459,66,0.996,459,0.211,-6.14,HARGUG_W318,Harmonia_guggolziorum_JG_&_BG1635
+Harmonia,hallii,,2n,Bruce G. Baldwin,599,BGB599,DAV,Colusa Co.,California,459,386,0.991,456,4.112,100,HARHAL599,Harmonia_hallii_BGB599
+Harmonia,nutans,,2n,Bruce G. Baldwin,652,BGB652,DAV,Napa Co.,California,459,367,0.991,457,5.456,100,HARNUT652,Harmonia_nutans_BGB652
+Harmonia,stebbinsii,,2n,Bruce G. Baldwin,611,BGB611,DAV,Trinity Co.,California,459,339,0.993,456,4.084,100,HARSTE611,Harmonia_stebbinsii_BGB611
+Hemizonia,congesta,,2n,Bruce G. Baldwin,532,BGB532,DAV,San Luis Obispo Co.,California,461,400,1,459,3.565,99.64,HEMCON532_LOso,Hemizonia_congesta_BGB532
+Hemizonia,congesta,congesta,2n,Greg English-Loeb,EL-2-Hc,GELEL2Hc,JEPS,"Sonoma Co.: Dotsa Ranch, Tomales-Petaluma Road",California,461,338,1,458,3.747,100,HEMCONcoW258_Tom,Hemizonia_congesta_congesta_GELEL2Hc
+Holocarpha,macradenia,,2n,Bruce G. Baldwin,724,BGB724,DAV,Monterey Co.,California,461,247,0.996,459,2.6,97.47,HOLMAC724_Elkh,Holocarpha_macradenia_BGB724
+Holocarpha,obconica,,2n,Bruce G. Baldwin,1401,BGB1401,JEPS,Alameda Co.,California,461,247,0.993,460,3.036,92.09,HOLOBC1401_AltP,Holocarpha_obconica_BGB1401
+Holozonia,filipes,,2n,Bruce G. Baldwin,513,BGB513,DAV,El Dorado Co.,California,461,242,1,460,1.754,99.64,HLZFIL513,Holozonia_filipes_BGB513
+Hulsea,algida,,2n,Bruce G. Baldwin,678,BGB678,DAV,"Alpine Co.: Sierra Nevada, Carson Range",California,461,217,0.996,460,1.024,74.46,HULALG678_SN_1,Hulsea_algida_BGB678
+Hulsea,californica,,2n,Bruce G. Baldwin,s.n.,BGBsn1992a,JEPS,"San Diego Co.: Cleveland National Forest, 1.4 mi N of Laguna/El Prado Campround",California,461,284,0.998,459,2.254,99.28,HULCAL_W56,Hulsea_californica_BGBsn1992a
+Jensia,rammii,,2n,Bruce G. Baldwin,494,BGB494,DAV,El Dorado Co.,California,459,378,0.996,459,4.553,100,JENRAM494,Jensia_rammii_BGB494
+Jensia,yosemitana,,2n,Bruce G. Baldwin,603,BGB603,DAV,Tuolumne Co.,California,459,54,0.993,459,0.305,-7.94,JENYOS603,Jensia_yosemitana_BGB603
+Kyhosia,bolanderi,,2n,Bruce G. Baldwin,509b,BGB509b,DAV,"El Dorado Co.: Sierra Nevada, Lake Tahoe, west shore",California,460,134,0.998,459,0.786,85.2,KYHBOL509b_1,Kyhosia_bolanderi_BGB509b
+Lagophylla,minor,,2n,Bruce G. Baldwin,600,BGB600,DAV,Napa Co.,California,459,343,0.98,458,3.087,100,LAGMIN600,Lagophylla_minor_BGB600
+Lagophylla,ramosissima,,2n,Bruce G. Baldwin,936,BGB936,JEPS,Solano Co.,California,459,114,0.996,459,0.383,8.66,LAGRAM936,Lagophylla_ramosissima_BGB936
+Lasthenia,californica,,2n,Bruce G. Baldwin,830,BGB830,JEPS,Mariposa Co.,California,459,410,0.911,456,7.427,100,LASCAL830,Lasthenia_californica_BGB830
+Lasthenia,glaberrima,,2n,Bruce G. Baldwin,884,BGB884,JEPS,Solano Co.,California,461,127,0.967,461,0.727,38.71,LASGLB884,Lasthenia_glaberrima_BGB884
+Layia,gaillardioides,,2n,Bruce G. Baldwin,1072,BGB1072,JEPS,Marin Co.,California,459,285,0.985,458,1.824,98.91,LAYGAI1072_w,Layia_gaillardioides_BGB1072
+Layia,heterotricha,,2n,Bruce G. Baldwin,738,BGB738,DAV,Santa Barbara Co.,California,458,224,0.987,458,1.873,99.64,LAYHET738_1,Layia_heterotricha_BGB738
+Madia,citriodora,,2n,Bruce G. Baldwin,715,BGB715,JEPS,Butte Co.,California,459,74,0.996,459,0.279,-7.22,MADCIT715,Madia_citriodora_BGB715
+Madia,elegans,,2n,Bruce G. Baldwin,695,BGB695,DAV,Kern Co.,California,459,396,0.993,458,4.877,100,MADELE695,Madia_elegans_BGB695
+Madia,radiata,,2n,Bruce G. Baldwin,693,BGB693,DAV,San Luis Obispo Co.,California,460,329,0.996,459,3.181,100,MADRAD693_2,Madia_radiata_BGB693
+Madia,subspicata,,2n,Bruce G. Baldwin,713,BGB713,DAV,Butte Co.,California,460,51,0.998,460,0.246,-5.4,MADSUB713,Madia_subspicata_BGB713
+Monolopia,gracilens,,2n,Bruce G. Baldwin,1069,BGB1069,JEPS,Contra Costa Co.,California,461,126,1,461,1.313,91.04,MONGRA1069,Monolopia_gracilens_BGB1069
+Monolopia,major,,2n,Bruce G. Baldwin,1011,BGB1011,JEPS,Colusa Co.,California,461,403,0.998,459,5.148,100,MONMAJ1011,Monolopia_major_BGB1011
+Osmadenia,tenella,,2n,Gerald D. Carr,1365,GDC1365,DAV,"San Diego Co.: Pala to Lilac Rd., 2.1 mi S of junction with Highway 76",California,460,405,0.996,460,5.159,99.64,OSMTEN_W236,Osmadenia_tenella_GDC1365
+Pseudobahia,bahiifolia,,2n,Bruce G. Baldwin,945,BGB945,JEPS,Madera Co.,California,461,237,0.985,461,2.326,95.34,PSEBAH945,Pseudobahia_bahiifolia_BGB945
+Pseudobahia,peirsonii,,2n,Bruce G. Baldwin,913,BGB913,JEPS,Kern Co.,California,461,282,0.989,460,1.98,99.64,PSEPEI913,Pseudobahia_peirsonii_BGB913
+Raillardella,argentea,,2n,Bruce G. Baldwin,512c,BGB512c,DAV,Alpine Co.,California,460,216,0.993,458,2.097,99.28,RAIARG512c,Raillardella_argentea_BGB512c
+Raillardella,pringlei,,2n,Bruce G. Baldwin,608b,BGB608b,DAV,"Siskiyou Co.: Trinity Mountains, Toad Lake",California,460,179,0.996,460,1.21,94.24,RAIPRI608b_1,Raillardella_pringlei_BGB608b
+Syntrichopappus,fremontii,,2n,Bruce G. Baldwin,1614,BGB1614,JEPS,Kern Co.,California,461,255,0.97,459,2.903,97.83,SYNFRE1614,Syntrichopappus_fremontii_BGB1614
+Syntrichopappus,lemmonii,,2n,Bruce G. Baldwin,1611a,BGB1611a,JEPS,Kern Co.,California,461,233,0.976,461,3.278,98.92,SYNLEM1611a,Syntrichopappus_lemmonii_BGB1611a
+Venegasia,carpesioides,,2n,Bruce G. Baldwin,893,BGB893,JEPS,San Luis Obispo Co.,California,461,224,0.998,461,1.612,93.55,VENCAR893,Venegasia_carpesioides_BGB893
+Wilkesia,gymnoxiphium,,4n,Winona Char,76.022,BW254,HAW,Kaua'i,Hawai'i,461,253,1,461,5.317,99.28,WILGYM_W254_1,Wilkesia_gymnoxiphium_WC76.022
+Wilkesia,hobdyi,,4n,Gerald D. Carr,1150,BW78,HAW,Kaua'i,Hawai'i,461,183,1,461,5.287,99.28,WILHOB_W78_1,Wilkesia_hobdyi_GDC1150
